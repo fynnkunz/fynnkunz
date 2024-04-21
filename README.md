@@ -1,5 +1,5 @@
 ### Hi there 👋
-![image]([https://camo.githubusercontent.com/5699ef22299a6c444493498e91a642995478d80c8d557b45f7c603b6e7610018/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d436f6d7075746572456c697465267468656d653d6461726b](https://github-readme-stats.vercel.app/api?username=fynnkunz&theme=dark))
+![image](https://github-readme-stats.vercel.app/api?username=fynnkunz&theme=dark))
 <!--
 **fynnkunz/fynnkunz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
